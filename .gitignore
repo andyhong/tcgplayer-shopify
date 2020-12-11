@@ -1,0 +1,7 @@
+.vscode
+*.egg-info
+config.json
+Pipfile
+Pipfile.lock
+pyproject.toml
+*.csv
