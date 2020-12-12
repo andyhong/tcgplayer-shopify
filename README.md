@@ -2,6 +2,10 @@
 
 > CLI built with the TCGPlayer API to automate the creation of CVS files to import trading cards into your Shopify store.
 
+## Requirements
+
+* Python 3.x.x
+
 ## Instructions
 
 1. Clone repo to your local machine.
