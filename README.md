@@ -9,5 +9,6 @@
 ## Instructions
 
 1. Clone repo to your local machine.
-2. Run `pip install -e .`
-3. Run `tcgify` to select card set for download!
+2. Rename `config.json.example` to `config.json` and enter your keys provided by TCGPlayer.
+3. Run `pip install -e .`
+4. Run `tcgify` to select card set for download!
