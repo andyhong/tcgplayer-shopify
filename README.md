@@ -1,6 +1,6 @@
 # tcgplayer-shopify
 
-> CLI built with the TCGPlayer API to automate the creation of CVS files to import trading cards into your Shopify store.
+> CLI built with the TCGPlayer API to automate the creation of CSV files to import trading cards as products / variants into your Shopify store.
 
 ## Requirements
 
